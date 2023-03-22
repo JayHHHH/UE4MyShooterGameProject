@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Shooter.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{CF0DC807-1496-4388-BF21-997D8845866C}</UniqueIdentifier>
+      <UniqueIdentifier>{FD8A78CC-52E8-460E-B498-CBC2E7AFDC47}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Shooter.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\ShooterEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{C85359F4-2169-40FE-8011-51D4FCCCF5D3}</UniqueIdentifier>
+      <UniqueIdentifier>{10199BDC-FEE7-41B6-9D6A-5D31A591FA87}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +29,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Shooter">
-      <UniqueIdentifier>{B19893B6-AA7B-4A80-B19B-8B1C29AC004B}</UniqueIdentifier>
+      <UniqueIdentifier>{03C47621-B4F4-4ADE-9D46-2ADB1DDAE241}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Shooter\Shooter.Build.cs">
       <Filter>Source\Shooter</Filter>

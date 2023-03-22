@@ -480,6 +480,8 @@
     <None Include="..\..\Shooter.uproject"/>
     <None Include="..\..\Source\Shooter.Target.cs"/>
     <None Include="..\..\Source\ShooterEditor.Target.cs"/>
+    <None Include="..\..\.gitattributes"/>
+    <None Include="..\..\.gitignore"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
